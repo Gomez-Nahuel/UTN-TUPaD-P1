@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Gomez Saucedo Augusto Nahuel 
+- **Nombre:** Augusto Nahuel Gomez Saucedo
 - **Comisión:** M2025-14 
 
 ## 📂 Descripción del Repositorio  

@@ -1,3 +1,7 @@
+#Tecnicatura en Programación a distancia
+#Trabajo Practico Estructuras Condicionales
+#Alumno: Gomez Saucedo Augusto Nahuel
+
 #1) Escribir un programa que solicite la edad del usuario. 
 
 edad = int(input("Ingrese su edad: "))

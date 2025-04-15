@@ -1,6 +1,6 @@
 # 🧠 **Tecnicatura en Programación a Distancia**
 
-## 📚 **Trabajo Práctico: Funciones**
+## 📚 **Trabajo Práctico: Estructuras Condicionales**
 
 ### 👨‍🎓 **Alumno:** Gómez Saucedo Augusto Nahuel  
 ### 🖥️ **Materia:** Programación 1  

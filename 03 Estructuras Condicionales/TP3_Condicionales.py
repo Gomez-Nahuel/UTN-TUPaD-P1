@@ -1,6 +1,10 @@
-#Tecnicatura en Programación a distancia
-#Trabajo Practico Estructuras Condicionales
-#Alumno: Gomez Saucedo Augusto Nahuel
+# 🧠 **Tecnicatura en Programación a Distancia**
+
+## 📚 **Trabajo Práctico: Funciones**
+
+### 👨‍🎓 **Alumno:** Gómez Saucedo Augusto Nahuel  
+### 🖥️ **Materia:** Programación 1  
+### 🏷️ **Comisión:** 14
 
 #1) Escribir un programa que solicite la edad del usuario. 
 

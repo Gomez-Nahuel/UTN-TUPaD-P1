@@ -64,11 +64,7 @@ print("9) Lista de compras modificada:", compras)
 
 # 10) Crear una lista anidada con los valores indicados y mostrarla
 
-lista_anidada = [
-    15,                         # posición 0
-    True,                       # posición 1
-    [25.5, 57.9, 30.6],         # posición 2 (lista anidada)
-    False                       # posición 3
-]
+lista_anidada = [15, True, [25.5,57.9,30.6], False]
 
-print("10) Lista anidada:", lista_anidada)
+# Imprimimos la lista resultante por pantalla
+print(lista_anidada)

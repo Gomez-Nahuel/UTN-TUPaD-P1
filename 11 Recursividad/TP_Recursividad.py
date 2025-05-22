@@ -1,5 +1,10 @@
-#Trabajo Práctico Recursividad
-#Alumno: Gomez Saucedo Augusto Nahuel
+# 🧠 **Tecnicatura en Programación a Distancia**
+
+## 📚 **Trabajo Práctico: Estructuras Secuenciales**
+
+### 👨‍🎓 **Alumno:** Gómez Saucedo Augusto Nahuel  
+### 🖥️ **Materia:** Programación 1  
+### 🏷️ **Comisión:** 14
 
 #1. Función recursiva que calcule el factorial de un número.
 

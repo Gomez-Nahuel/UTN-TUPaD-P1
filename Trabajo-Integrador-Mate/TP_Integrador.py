@@ -27,7 +27,7 @@ print("Diferencia A - B:", conjunto_A.difference(conjunto_B))
 print("Diferencia simétrica A Δ B:", conjunto_A.symmetric_difference(conjunto_B))
 print()
 
-# Expresiones lógicas (lenguaje natural y en código)
+# Expresiones lógicas 
 # 1. "Si hay un número que aparece en todos los conjuntos, mostrarlo"
 interseccion_total = conjunto_A & conjunto_B & conjunto_C
 if interseccion_total:

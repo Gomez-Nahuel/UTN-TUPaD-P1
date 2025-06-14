@@ -12,6 +12,9 @@ Tecnicatura Universitaria en Programación – UTN
 - **https://github.com/Gomez-Nahuel**
 - **https://github.com/JavierGCF**
 
+## Video En YouTube
+[![Ver video](https://img.youtube.com/vi/QSibr-zJb24/0.jpg)](https://www.youtube.com/watch?v=QSibr-zJb24)
+
 ## Descripción
 
 Este programa fue desarrollado para resolver la consigna del Trabajo Práctico Integrador 2 de la materia Matemática I, integrando conceptos de conjuntos, lógica y programación básica en Python.
